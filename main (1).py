@@ -1,2 +1,0 @@
-print("Yang baca ga dapat THR");print("Semoga yg baca langsung hilang")
-print("where are you");print("esok-esok");print("yakult");print("VVP");print("Woi Meletup Woi Lari²! ");print(" Alamak Bawa Kotak Puala WALAHH")
